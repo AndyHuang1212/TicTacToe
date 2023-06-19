@@ -1,0 +1,5 @@
+﻿  5.cpp
+C:\Users\Sony V170\Desktop\大四(下)\c++\TicTacToe\5.cpp(21,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Sony V170\Desktop\大四(下)\c++\TicTacToe\5.cpp(143,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Sony V170\Desktop\大四(下)\c++\TicTacToe\5.cpp(102): warning C4715: 'isEnd': not all control paths return a value
+  TicTacToe.vcxproj -> C:\Users\Sony V170\Desktop\大四(下)\c++\TicTacToe\x64\Debug\TicTacToe.exe
